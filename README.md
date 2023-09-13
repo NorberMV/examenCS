@@ -1,4 +1,3 @@
 # examenCS
 ## Primer exámen C#
-  Norberto Moreno Velez
-  Leidy Johana Diaz Bermudez
+  Integrantes: Norberto Moreno Velez y Leidy Johana Diaz Bermudez
